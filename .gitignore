@@ -2,7 +2,7 @@
 *.patch
 *.orig
 *.rej
-
+examples/
 *~
 *.a
 *.lo
